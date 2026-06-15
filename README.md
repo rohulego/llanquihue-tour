@@ -11,10 +11,12 @@
 
 ## 📘 Descripción general del sistema
 Este proyecto corresponde a la Evaluación Formativa de la asignatura *Desarrollo Orientado a Objetos I* correspondiente a la semana 4.
-En esta ocacción estructuramos nuestro trabajo en paquetes (model, data, ui y resources) para las diferentes clases que utilizaremos.
+En esta ocasión estructuramos nuestro trabajo en paquetes (model, data, ui y resources) para las diferentes clases que utilizaremos.
 Lo nuevo aqui es que utilizaremos una clase que indica como leeremos el archivo .txt entregando la información en un ArrayList.
 Además, incorporamos un archivo de texto en el paquete resources donde los datos de los tours se iran guardando.
-Finalmente, en nuestro main mostraremos los datos recurriendo al ArrayList y utilizaremos la opción de filtrado, es decir, leer nuestra lista y seleccionar aquellos tours que cumplan con una condición.
+Finalmente, en nuestro main mostraremos los datos recurriendo al ArrayList y utilizaremos la opción de filtrado, es decir, leer nuestra lista y seleccionar aquellos tours que cumplan con una condición específica.
+Las variables introducidas son nombre, duración y valor. Durante nuestro filtrado, filtraremos por días buscando que tours tienen 1 día de duración.
+
 ---
 
 ## 🧱 Estructura general del proyecto
@@ -26,6 +28,7 @@ Finalmente, en nuestro main mostraremos los datos recurriendo al ArrayList y uti
 ├── dara/        # Clase para gestionar la data (GestorData)
 ├── resources/   # Aquí yace nuestro archivo de texto
 ````
+
 
 ## ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
