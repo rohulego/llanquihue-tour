@@ -50,10 +50,10 @@ https://github.com/rohulego/llanquihue-tour.git
 ---
 
 **Repositorio GitHub:** \[https://github.com/rohulego/llanquihue-tour.git]
-**Fecha de entrega:** \[05/06/2026]
+**Fecha de entrega:** \[15/06/2026]
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Formativa Semana 4
 
 
