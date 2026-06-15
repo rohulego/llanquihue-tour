@@ -1,0 +1,5 @@
+Excursión a los rios;2;50000
+Excursión a los lagos;3;70000
+Paseo Patrimonial;1;15000
+Ruta Gastronómica;1;25000
+Ruta Artística;2;20000
