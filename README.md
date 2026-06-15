@@ -1,5 +1,5 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Evaluación Formativa Semana 3 – Desarrollo Orientado a Objetos I
+# 🧠 Evaluación Formativa Semana 4 – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** Rodrigo Humberto Leiva Gómez
