@@ -1,5 +1,5 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Evaluación Formativa Semana 4 – Desarrollo Orientado a Objetos I
+# 🧠 Actividad Formativa 3 – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** Rodrigo Humberto Leiva Gómez
@@ -10,7 +10,7 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Evaluación Formativa de la asignatura *Desarrollo Orientado a Objetos I* correspondiente a la semana 4.
+Este proyecto corresponde a la Actividad Formativa 3: "Construyendo una lista de objetos desde archivo", de la asignatura *Desarrollo Orientado a Objetos I* de la semana 4.
 En esta ocasión estructuramos nuestro trabajo en paquetes (model, data, ui y resources) para las diferentes clases que utilizaremos.
 Lo nuevo aqui es que utilizaremos una clase que indica como leeremos el archivo .txt entregando la información en un ArrayList.
 Además, incorporamos un archivo de texto en el paquete resources donde los datos de los tours se iran guardando.
@@ -54,6 +54,5 @@ https://github.com/rohulego/llanquihue-tour.git
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Formativa Semana 4
-
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Actividad Formativa 3
 
